@@ -1,0 +1,23 @@
+[33mcommit c7c40adf9c539ff90be6bbc063190c53032cb817[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: HarshSilodia <harshsilodia@gmail.com>
+Date:   Fri Dec 6 23:43:52 2024 +0530
+
+    updated url
+
+[33mcommit 5ad1de36ad905f46209ccbe47a4817bccf41533a[m
+Author: HarshSilodia <harshsilodia@gmail.com>
+Date:   Fri Dec 6 23:27:44 2024 +0530
+
+    build ready
+
+[33mcommit 981e4d78f16d107f54a3c5b3b10418799ca0209a[m
+Author: HarshSilodia <harshsilodia@gmail.com>
+Date:   Fri Dec 6 23:03:54 2024 +0530
+
+    first commit
+
+[33mcommit 303daed1a5ca259169df7d65429f9bb1620c1209[m
+Author: HarshSilodia <harshsilodia@gmail.com>
+Date:   Thu Dec 5 13:04:16 2024 +0530
+
+    Initialize project using Create React App
